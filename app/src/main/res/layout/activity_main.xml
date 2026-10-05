@@ -16,4 +16,13 @@
         android:background="#6200EE"
         android:textColor="@color/white"
         android:text="loginAppAS" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28dp"
+        android:background="#008080"
+        android:textColor="@color/white"
+        android:text="Rejestruj konto" />
 </LinearLayout>
