@@ -8,4 +8,12 @@
     tools:context=".MainActivity">
 
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="#6200EE"
+        android:textColor="@color/white"
+        android:text="loginAppAS" />
 </LinearLayout>
