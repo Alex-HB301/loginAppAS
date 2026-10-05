@@ -50,6 +50,7 @@
         android:id="@+id/editTextText2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="12dp"
         android:ems="10"
         android:inputType="textPassword"
         android:text="123456" />
@@ -59,4 +60,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Powtorz haslo:" />
+
+    <EditText
+        android:id="@+id/editTextText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:text="123456" />
 </LinearLayout>
