@@ -25,4 +25,10 @@
         android:background="#008080"
         android:textColor="@color/white"
         android:text="Rejestruj konto" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Podaj e-mail:" />
 </LinearLayout>
