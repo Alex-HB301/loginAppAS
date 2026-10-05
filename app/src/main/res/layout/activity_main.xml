@@ -4,7 +4,9 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
     android:orientation="vertical"
+
     tools:context=".MainActivity">
 
 
@@ -69,4 +71,14 @@
         android:ems="10"
         android:inputType="textPassword"
         android:text="123456" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#d7d7d7"
+        android:text="ZATWIERDZ" />
+
+
 </LinearLayout>
