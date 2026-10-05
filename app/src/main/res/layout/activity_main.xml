@@ -31,7 +31,7 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="match_parent"S
+        android:layout_width="match_parent"SS
         android:layout_height="wrap_content"
         android:textSize="18dp"
         android:text="Podaj e-mail:" />
