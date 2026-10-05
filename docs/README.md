@@ -1,20 +1,10 @@
-\## Nazwa
-
+## Nazwa
 loginAppAS
-
-\## Zrzut ekranu
-
-!\[ekran glowny](images/mainIMG.png)
-
-\## Technologie
-
+## Zrzut ekranu
+![ekran glowny](images/mainIMG.png)
+## Technologie
 Java 17, Android SDK, midSdk 24, Empty Views Activity
-
-\## Funkcje
-
+## Funkcje
 brak
-
-\## Autor
-
+## Autor
 Fabian Ługowski 5P
-
