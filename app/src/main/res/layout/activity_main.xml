@@ -53,4 +53,10 @@
         android:ems="10"
         android:inputType="textPassword"
         android:text="123456" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Powtorz haslo:" />
 </LinearLayout>
