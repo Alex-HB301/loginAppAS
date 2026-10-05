@@ -31,4 +31,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Podaj e-mail:" />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:inputType="text"
+        android:text="ewa@poczta.pl" />
 </LinearLayout>
